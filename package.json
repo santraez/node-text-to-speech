@@ -1,0 +1,9 @@
+{
+  "name": "text-speech",
+  "main": "index.js",
+  "author": "santraez",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  }
+}
